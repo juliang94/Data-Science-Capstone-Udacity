@@ -1,9 +1,0 @@
-feature, centroid value, meaning
-`KBA05_ANTG1`, 3, high share of 1-2 family homes in the cell
-`KBA05_AUTOQUOT`, 4, high car quote share per household
-`KBA05_GBZ`, 4, 17-22 buildings in microcell
-`KBA13_ANTG1`, 3, average share of car ownership per 1-2 family houses
-`LP_STATUS_FEIN`, 8, new houseowners
-`LP_STATUS_GROB`, 4, average earners
-`MOBI_REGIO`, 4, low movement patterns
-`PLZ8_ANTG1`, 3, high share of 1-2 family home in PLZ8 
