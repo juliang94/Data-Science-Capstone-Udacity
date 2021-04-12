@@ -1,9 +1,9 @@
-principal component, cluster, feature, centroid, meaning
-2, 6, ALTERSKATEGORIE_FEIN, 9, age group born in late 1930s
-2, 6, D19_GESAMT_ANZ_12,0, no known financial transaction activity (total)
-2, 6, D19_GESAMT_ANZ_24,1 , very low transaction activity over the past 2 years (total)
-2, 6, D19_VERSAND_ANZ_12,0, no activity in transaction mail-order over the past year
-2, 6, D19_VERSAND_ANZ_24,1, very low activity in transaction mail-order over the past 2 years
-2, 6, FINANZ_ANLEGER, 2, high financial investment
-2, 6, FINANZ_SPARER, 1 ,very high money saving
-2, 6, ONLINE_AFFINITAET, 2, middle-level online affinity
+principal component, feature, centroid, meaning
+1, KBA05_ANTG1, 1, lower share of 1-2 family homes in the cell
+1, KBA05_AUTOQUOT, 3, average car quote share per household
+1, KBA05_GBZ, 2, 3-4 buildings in microcell
+1, KBA13_ANTG1,2, low share of car ownership per 1-2 family houses
+1, LP_STATUS_FEIN, 3, aspiring low-income earners
+1, LP_STATUS_GROB,2, low-income earners
+1, MOBI_REGIO, 2, high mobility patterns
+1, PLZ8_ANTG1, 2, average share of 1-2 family home in PLZ8
