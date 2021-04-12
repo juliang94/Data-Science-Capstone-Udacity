@@ -7,11 +7,4 @@ principal component, cluster, feature, centroid value, meaning
 1, 6, LP_STATUS_GROB, 4, average earners
 1, 6, MOBI_REGIO, 4, low movement patterns
 1, 6, PLZ8_ANTG1, 3, high share of 1-2 family home in PLZ8 
-2, 6, ALTERSKATEGORIE_FEIN, 9, age group born in late 1930s
-2, 6, D19_GESAMT_ANZ_12,0, no known financial transaction activity (total)
-2, 6, D19_GESAMT_ANZ_24,1 , very low transaction activity over the past 2 years (total)
-2, 6, D19_VERSAND_ANZ_12,0, no activity in transaction mail-order over the past year
-2, 6, D19_VERSAND_ANZ_24,1, very low activity in transaction mail-order over the past 2 years
-2, 6, FINANZ_ANLEGER, 2, high financial investment
-2, 6, FINANZ_SPARER, 1 ,very high money saving
-2, 6, ONLINE_AFFINITAET, 2, middle-level online affinity
+
