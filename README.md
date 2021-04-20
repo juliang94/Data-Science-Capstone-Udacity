@@ -34,3 +34,6 @@ This capstone project entails an analysis on four different data sets provided b
 - The target customers tend to be retirees with moderate online affinity who have little or no recent transaction activity.
 - The non-target customers are slightly younger people who have higher transaction activity and higher online affinity.
 - Out of the three supervised learning models, the logistic regression gave a higher score than the other two models.
+
+## Medium Article
+The analysis is discussed in this article [here](https://ajuliang94.medium.com/an-analysis-on-arvato-customers-e3d56a366c78)
