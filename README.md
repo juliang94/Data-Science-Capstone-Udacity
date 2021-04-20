@@ -27,7 +27,8 @@ This capstone project entails an analysis on four different data sets provided b
 ## Files
 - Jupyter notebook of analysis
 - CSV files containing cluster centroid descriptions
-- CSV file detailing the `ALTERSKATEGORIE_FEIN`(age category) feature which was not described.
+- CSV file detailing the `ALTERSKATEGORIE_FEIN`(age category) feature which was not described
+- Terms and conditions
 
 ## Summary of Results
 - The target customers tend to be retirees with moderate online affinity who have little or no recent transaction activity.
